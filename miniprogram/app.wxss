@@ -1,0 +1,8 @@
+/* 全局样式 */
+.container{
+  /* px兼容性有问题 */
+  padding: 0 15rpx;
+}
+.flex-container{
+  display: flex;
+}

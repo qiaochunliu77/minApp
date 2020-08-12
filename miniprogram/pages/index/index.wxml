@@ -1,0 +1,5 @@
+<view class='container'>
+<van-button type="primary" block class='big-btn' bindtap="upload">
+  {{name}}
+</van-button>
+</view>
